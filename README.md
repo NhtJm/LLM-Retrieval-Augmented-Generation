@@ -6,4 +6,4 @@ RAG (Retrieval-Augmented Generation) is a project aimed at enhancing the capabil
 
 ## Features
 
-- **Contains Documents and Jupyter Notebook** 
+- **Contains Documents and Jupyter Notebooks** 
