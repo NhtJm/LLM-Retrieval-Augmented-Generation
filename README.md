@@ -6,4 +6,6 @@ RAG (Retrieval-Augmented Generation) is a project aimed at enhancing the capabil
 
 ## Features
 
-- **Contains Documents and Jupyter Notebooks** 
+- Contains **Documents and Jupyter Notebooks**
+- Implement RAG using Python library - **Langchain**
+- UI for chatbot using Python library - **Chainlit**
